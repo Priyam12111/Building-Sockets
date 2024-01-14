@@ -1,4 +1,6 @@
 import socket
+# This was my port forwarding
+
 
 HOST = '0.tcp.in.ngrok.io'  # Replace with ngrok public URL when using ngrok
 PORT = 19264
