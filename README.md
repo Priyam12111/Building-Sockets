@@ -5,7 +5,7 @@
 3. Please refer these Statement in Android Manifest XML
 4.<br>
 
-<uses-permission android:name="android.permission.READ_SMS"/>`
+`<uses-permission android:name="android.permission.READ_SMS"/>`
 `<uses-permission android:name="android.permission.RECEIVE_SMS"/>`
 `<uses-permission android:name="android.permission.INTERNET" />`
 
